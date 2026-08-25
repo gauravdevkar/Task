@@ -33,3 +33,10 @@ def vote(name):
 @app.route("/result")
 def result():
     return jsonify(votes)
+
+#New Enhancement (Reset feature)
+
+@app.route("/reset")
+def reset():
+    votes.clear()
+    return "All votes have been reset"
