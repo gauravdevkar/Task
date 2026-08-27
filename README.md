@@ -96,7 +96,8 @@ Version 2	Added the /reset endpoint to clear all stored vote counts.
 
 Application Running in Browser
 
-<img width="350" height="126" alt="image" src="https://github.com/user-attachments/assets/0dca7fb9-f688-45e9-82cf-2626a876362c" />
+<img width="361" height="223" alt="image" src="https://github.com/user-attachments/assets/0977a3e3-812c-4e21-9c6a-38ef46027996" />
+
 
 *GitHub Branches
 
