@@ -98,15 +98,15 @@ Application Running in Browser
 
 <img width="350" height="126" alt="image" src="https://github.com/user-attachments/assets/0dca7fb9-f688-45e9-82cf-2626a876362c" />
 
-GitHub Branches
+*GitHub Branches
 
 The screenshot below shows the GitHub repository with both the dev and main branches.
 
 <img width="577" height="436" alt="image" src="https://github.com/user-attachments/assets/7a6ba764-3415-4c2c-af1f-698776c670ac" />
 
-Version History / Merge History
+*Version History 
 
-The screenshot below shows the commit and merge history for Version 1 and Version 2.
+The screenshot below shows the commit history for Version 1 and Version 2.
 
 <img width="345" height="90" alt="image" src="https://github.com/user-attachments/assets/adbd0004-37ff-4065-8de1-55a04f19e55e" />
 <img width="538" height="80" alt="image" src="https://github.com/user-attachments/assets/2ffe2dd6-0c70-4906-8e3f-047aef39998b" />
